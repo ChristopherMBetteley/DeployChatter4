@@ -1,0 +1,438 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ApplicationInsights.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\csc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\vbc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.SqlServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Web.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.WindowsServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.ApplicationInsights.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Owin.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\WebGrease.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Web.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.WindowsServer.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.ApplicationInsights.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.SqlServer.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.InitialCreate.resources
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.chatmodel.resources
+c:\users\wecancodeit\documents\visual studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.account.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\ApplicationInsights.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\csc.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\vbc.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\ChatApp.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Antlr3.Runtime.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.SqlServer.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Web.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Helpers.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Mvc.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Optimization.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Razor.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\WebGrease.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.Web.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Helpers.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Mvc.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Optimization.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.Razor.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Antlr3.Runtime.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Newtonsoft.Json.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\EntityFramework.SqlServer.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.InitialCreate.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.chatmodel.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.account.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.ShowMeTables.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatApp\ChatApp\obj\Debug\ChatApp.Migrations.FkeyGood.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\ApplicationInsights.config
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\csc.exe
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\vbc.exe
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\ChatApp.dll.config
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\ChatApp.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\ChatApp.pdb
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Antlr3.Runtime.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\EntityFramework.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\EntityFramework.SqlServer.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.Web.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Newtonsoft.Json.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Owin.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Helpers.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Mvc.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Optimization.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Razor.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\WebGrease.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.Web.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Helpers.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Mvc.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Optimization.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.Razor.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Antlr3.Runtime.pdb
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Newtonsoft.Json.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\EntityFramework.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\EntityFramework.SqlServer.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.Migrations.InitialCreate.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.Migrations.chatmodel.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.Migrations.account.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.Migrations.ShowMeTables.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.Migrations.FkeyGood.resources
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.dll
+C:\Users\bkilkenney\Desktop\New folder\ChatApp-master\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\ApplicationInsights.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\csc.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\vbc.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\ChatApp.dll.config
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\ChatApp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\ChatApp.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Antlr3.Runtime.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\EntityFramework.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\EntityFramework.SqlServer.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.Web.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Newtonsoft.Json.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Owin.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Helpers.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Mvc.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Optimization.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Razor.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\WebGrease.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.Web.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Helpers.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Mvc.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Optimization.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.Razor.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Antlr3.Runtime.pdb
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Newtonsoft.Json.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\EntityFramework.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\EntityFramework.SqlServer.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.Migrations.InitialCreate.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.Migrations.chatmodel.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.Migrations.account.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.Migrations.ShowMeTables.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.Migrations.FkeyGood.resources
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.dll
+C:\Users\bkilkenney\Documents\Visual Studio 2015\Projects\ChatWorkingApp\ChatApp\obj\Debug\ChatApp.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\ApplicationInsights.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\csc.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\vbc.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\ChatApp.dll.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\ChatApp.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\ChatApp.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Antlr3.Runtime.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\EntityFramework.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\EntityFramework.SqlServer.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.Web.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Newtonsoft.Json.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Owin.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Helpers.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Mvc.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Optimization.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Razor.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\WebGrease.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.Web.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Helpers.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Mvc.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Optimization.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.Razor.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Antlr3.Runtime.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Newtonsoft.Json.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\EntityFramework.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\EntityFramework.SqlServer.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.csprojResolveAssemblyReference.cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.Migrations.InitialCreate.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.Migrations.chatmodel.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.Migrations.account.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.Migrations.ShowMeTables.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.Migrations.FkeyGood.resources
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.Cache
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.dll
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\DeployChatter\ChatWorkingApp-master\ChatApp\obj\Debug\ChatApp.pdb
